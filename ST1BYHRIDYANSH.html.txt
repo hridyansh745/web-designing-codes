@@ -1,0 +1,32 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<title> college admission form </title>
+</head>
+<body>
+
+<form border = "1" style = "width":480px; margin: auto; padding:20px;border:2px solid;">
+
+<h2 style = "text-align : centre; "college admission form" </h2>
+<label> PLEASE INPUT YOUR NAME:</label> <br>
+<input type = "text" name = "full name" required> <br> <br>
+<label> PLEASE ENTER YOUR VALID EMAIL-ID:</label> <br>
+<input type = "text" name = "email" required> <br> <br>
+<label> PLEASE ENTER YOUR PHONE NUMBER:</label> <br>
+<input type = "text" name = "phone number" required> <br> <br>
+
+<label> ENTER YOUR CLASS & SECTION:</label> <br>
+<select name = "your class">
+<option> CSE =1 </option>
+<option> CSE =2 </option>
+<option> CSE =3 </option>
+<option> CSE =4 </option>
+<option> CSE =5 </option>
+
+<form>
+<input type = "submit value="confirm your options"
+<input type = "reset value="reset the form"
+</form>
+
+</body>
+</html>
